@@ -1,0 +1,15 @@
+{
+  "header": {
+    "home": "Home",
+    "booking": "Booking",
+    "promotion": "Promotion",
+    "manage": "Manage Booking",
+    "language": "Language"
+  },
+  "footer": {
+    "terms": "Terms & Conditions",
+    "use": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "copyright": "\u00a9 {{year}} Nok Airlines Public Company Limited. All Rights Reserved."
+  }
+}
